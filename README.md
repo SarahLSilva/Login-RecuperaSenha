@@ -1,34 +1,55 @@
 # Login-recuperar-senha
 
+![banner](img/banner.jpeg)
 
 # Índice
 
 * [Introdução](#introdução)
 
-* [Sites-utilizados](#sites-utilizados)
-
 * [Tecnologias-utilizadas](#tecnologias-utilizadas)
+
+* [Detalhes-da-atividade](#Detalhes-da-atividade)
 
 * [Autores](#autores)
 
 * [Detalhes](#detalhes)
 
-# Introdução
+## Introdução🔵
+    A empresa Alpha está expandindo suas operações e abrindo uma vaga para Programador(a) Trainee. Como parte do processo seletivo, os candidatos devem enfrentar um desafio prático. Este desafio consiste na implementação de funcionalidades de login, cadastro e recuperação de senha em um projeto web.
 
-    Atividade proposta com o intuitp de alunos aprimorarem uma atividade feita anteriormente: [Login](), Al
+#### Primeiro Projeto
 
-# Sites utilizados
+![login](https://github.com/SarahLSilva/form-login)
 
-Boostrap5 e diversos, pesquisa feita diretamente no Google
+## Detalhes da atividade 🔵
 
-# tecnologias utilizadas
+    A empresa Alpha está com uma nova vaga disponível. Programador(a) treinee. Eles estão expandido as operações e agora terão equipe de TI própria. Para esse vaga, há um primeiro desafio. Esse desafio está sendo utilizado pela empresa para selecionar o/a candidato/a que ocupará a vaga. O desafio consiste em: 
 
-Git hub, Visual Studio, Html5 e CSS3
 
-# Autores 
+   ◽ CRIAR ou UTILIZAR um projeto de tela de login já existente; 
 
-- Sarah
+    A tela do projeto deverá ter os campos: usuário, senha, cadastre-se e esqueci minha senha. Esses recursos são necessários nesse tipo de página. 
 
-# Detalhes 
 
-Inicio: 14/11 Término: 27/11
+#### PROJETO (SOLUÇÃO): 
+
+    É necessário aplicar nesse projeto a validação dos campos de acesso. Por exemplo, caso a pessoa não informe os campos usuário ou senha, sua aplicação deve informar a essa pessoa que esses são campos obrigatórios. Você deverá fazer isso utilizando a linguagem Javascript.  
+
+    Ainda, crie uma página para quando o usuário clicar na opção "Esqueci minha senha", permitir colegar o e-mail do usuário para recuperação de senha. Não se preocupe, a etapa de recuperação em si não precisa ser implementada. Somente uma segunda página para essa opção.
+
+    É necessário criar um repositório no github, publicar a aplicação e documentá-la (README e commits) adequadamente.  
+
+## Tecnologias Utilizadas
+
+   ◽ HTML 5
+   ◽CSS3
+   ◽JavaScript
+   ◽GitHub
+   ◽Visual Studio Code
+
+
+## Autores 
+-Sarah
+
+
+
