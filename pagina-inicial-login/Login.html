@@ -1,40 +1,35 @@
-
 <!DOCTYPE html>
-<html lang="pt">
- 
+<html>
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Login</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela de Login</title>
+    <!-- Seu CSS personalizado -->
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <script src="login.js"></script>
-   
 </head>
- 
 <body>
-    <div class="container">
-      <div class="Cadastro">
-        <a href="cadastro.html" >Cadastro</a>
-      </div>
-        <div class="titulo">Login</div><br>
-        <form id="loginForm" method="POST">
  
-            <div class="form-group">
-                <label for="usuario">Usuário:</label>
-                <input type="text" id="usuario" name="usuario">
-               
-            </div>
-            <div class="form-group">
-                <label for="senha">Senha:</label>
-                <input type="password" id="senha" name="senha">
-               
-                <div class="form-group">
-                  <a href="recuperar-senha.html">Esqueceu sua senha? clique aqui</a>
-              </div>
+<h2>Login</h2>
  
-            <div class="form-group">
-                <input type="submit" value="Login">
-            </div>
+<form id="loginForm" action="#" method="post">
+    <label for="username">Usuário:</label>
+    <input type="text" id="username" name="username"><br><br>
+    
+    <label for="password">Senha:</label>
+    <input type="password" id="password" name="password"><br><br>
+    
+    <button type="submit">Entrar</button>
+</form>
+ 
+<div class="options">
+    <a href="cadastro.html">Cadastro</a>
+    <a href="recuperar_senha.html">Recuperar Senha</a>
+</div>
+ 
+<!-- Seu JavaScript personalizado -->
+<script src="script.js"></script>
+ 
 </body>
 </html>
 
