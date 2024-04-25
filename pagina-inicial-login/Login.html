@@ -1,35 +1,24 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Login</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Seu CSS personalizado -->
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Login</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="container">
+        <h2>Login</h2>
+        <form action="login.php" method="post" id="login_form">
+            <input type="email" name="email" placeholder="Email" required>                                                                                            
+            <input type="password" name="senha" placeholder="Senha" required>
+            <button type="submit">Entrar</button>
+        </form>
+        <a href="esqueci-senha.html">Esqueci minha senha</a>
+        <a href="cadastro.html">Cadastrp</a>
+    </div>
  
-<h2>Login</h2>
- 
-<form id="loginForm" action="#" method="post">
-    <label for="username">Usuário:</label>
-    <input type="text" id="username" name="username"><br><br>
-    
-    <label for="password">Senha:</label>
-    <input type="password" id="password" name="password"><br><br>
-    
-    <button type="submit">Entrar</button>
-</form>
- 
-<div class="options">
-    <a href="cadastro.html">Cadastro</a>
-    <a href="recuperar_senha.html">Recuperar Senha</a>
-</div>
- 
-<!-- Seu JavaScript personalizado -->
-<script src="script.js"></script>
- 
+    <script src="script.js"></script>
 </body>
 </html>
-
