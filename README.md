@@ -19,7 +19,7 @@ A empresa Alpha está expandindo suas operações e abrindo uma vaga para Progra
 
 #### Primeiro Projeto
 
-![login](https://github.com/SarahLSilva/form-login)
+[login](https://github.com/SarahLSilva/form-login)
 
 ## Detalhes da atividade 🔵
 
