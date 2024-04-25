@@ -1,12 +1,9 @@
-# Login
+# Login-recuperar-senha
 
-![imagem](img/Captura%20de%20tela%202023-11-27%20095148.png)
 
 # Índice
 
 * [Introdução](#introdução)
-
-* [Metodos](#metodos)
 
 * [Sites-utilizados](#sites-utilizados)
 
@@ -18,15 +15,11 @@
 
 # Introdução
 
- Essa atividade realizada na aula de fundamentos da web teve o intuito de fazer os alunos criarem o próprio login.
-
-# Métodos
-
- Foi utilizado sites E-commerce como exemplo para se ter alguma base de como é um cadastro real. Atividade: [formulário-CadEcommerce](https://github.com/SarahLSilva/form-CadEcommerce)
+    Atividade proposta com o intuitp de alunos aprimorarem uma atividade feita anteriormente: [Login]()
 
 # Sites utilizados
 
-Boostrap5
+Boostrap5 e diversos, pesquisa feita diretamente no Google
 
 # tecnologias utilizadas
 
