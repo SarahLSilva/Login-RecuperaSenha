@@ -37,7 +37,6 @@ A tela do projeto deverá ter os campos: usuário, senha, cadastre-se e esqueci 
 
 Ainda, crie uma página para quando o usuário clicar na opção "Esqueci minha senha", permitir colegar o e-mail do usuário para recuperação de senha. Não se preocupe, a etapa de recuperação em si não precisa ser implementada. Somente uma segunda página para essa opção.
 
-É necessário criar um repositório no github, publicar a aplicação e documentá-la (README e commits) adequadamente.  
 
 ## Tecnologias Utilizadas
 
